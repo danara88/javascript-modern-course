@@ -10,6 +10,8 @@ Netscape para enrar a un guerra de tecnologías decidió estandarizar el lenguaj
 
 JavaScript surgió por la necesidad de mandar información al servidor lo más procesada posible para que este trabaje solo que con peticiones validas.
 
+JavaScript es un lenguaje interpretado, esto quiere decir que las instrucciones se ejecutan de manera secuencial.
+
 # USOS DE JAVASCRIPT
 - Aplicaciones web
 - Crear presentaciones
@@ -18,3 +20,17 @@ JavaScript surgió por la necesidad de mandar información al servidor lo más p
 - Aplicaciones móviles
 - Aplicaciones nativas
 
+# VERSIONES DE JAVASCRIPT
+- 1996 LiveScript a JavaScript (Estandar)
+- 1997 ES1 (ECMAScript 1)
+- 2009 ES5 (ECMAScript 5) Con muchas caracteristicas nuevas.
+- 2015 ES6/ES2015 (ECMAScript 2015) La actualización más grande.
+- 2015 Se estableció el año de nuevos lanzamientos de JavaScript (Cada año se lanzan nuevas versiones)
+
+# QUÉ VERSIÓN DEBEMOS UTILIZAR ??
+- ES5: Soportado en todos los navegadores
+- ES6: Perdemos compatibilidad con navegadores viejos (Solucionando usando Polyfill)
+
+# QUÉ ES POLYFILL ??
+Consiste en un código que provee un funcionamiento de una caracteristica del ES6 para el
+ES5 y así hacer dicha caracteristica compatible.
