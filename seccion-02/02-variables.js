@@ -36,4 +36,5 @@ console.log(z);
  * 1. Me permite remplazar propiedades y objetos propios del objeto global "Window"
  * 2. Como JS hace un barrido rápido del código, puedo definir y declarar una variable después de utilizarla
  * poniendole el valor de "undefined" (no definido) (no arroja ningpun error)
+ * 3. Usando Var podemos re inicializar la variable, algo que no se puede usar con let
  */

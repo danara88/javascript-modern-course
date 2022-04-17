@@ -4,13 +4,15 @@ Este es un repositorio con todo el contenido de "Javascript Moderno" impartido p
 # HISTORIA DE JAVASCRIPT
 Java != Javascript
 
-Años 90 había 28 kbps que abrió las puertas a crear sitios web mas complejos. Surgió la necesidad de un lenguaje de programación que se ejecutara de lado del cliente para que las páginas sean más rápidas. Ejemplo: Siempre mandamos un formulario que es renderizado y valiado por el servidor, es por ello que surgió JavaScript hecho por Brendan Eich con el objetivo de no enviar cosas innecesarias al servidor. Eich junto con Netscape crearon LiveScript pero mejor lo cambiaron a JavaScript por motivos Marketing.
+En los años 90 había 28 kbps que abrió las puertas a crear sitios web mas complejos. Surgió la necesidad de un lenguaje de programación que se ejecutara de lado del cliente para que las páginas sean más rápidas. Ejemplo: Siempre mandamos un formulario que es renderizado y valiado por el servidor, es por ello que surgió JavaScript hecho por Brendan Eich con el objetivo de no enviar cosas innecesarias al servidor. Eich junto con Netscape crearon LiveScript pero mejor lo cambiaron a JavaScript por motivos de marketing.
 
-Netscape para enrar a un guerra de tecnologías decidió estandarizar el lenguaje de JavaScript al ECMA (European Computer Manufacturers Association). ECAMA creo un comité TC39 para estandarizar el lenguaje script multiplataforma creando el estandar ECMA-262.
+Netscape al entrar a la guerra de tecnologías, decidió estandarizar el lenguaje de JavaScript al ECMA (European Computer Manufacturers Association). ECMA creo un comité TC39 para estandarizar el lenguaje script multiplataforma creando el estandar ECMA-262.
 
-JavaScript surgió por la necesidad de mandar información al servidor lo más procesada posible para que este trabaje solo que con peticiones validas.
+JavaScript surgió por la necesidad de mandar información al servidor lo más procesada posible para que este trabaje solo con peticiones validas.
 
 JavaScript es un lenguaje interpretado, esto quiere decir que las instrucciones se ejecutan de manera secuencial.
+
+En JavaScript normalmente se escriben variables, funciones, etc en formato "lowerCamelCase"; el nombre de las clases se escriben en formato "UpperCamelCase".
 
 # USOS DE JAVASCRIPT
 - Aplicaciones web

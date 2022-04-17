@@ -11,7 +11,3 @@ console.log('Hola Mundo');
 
 // Es recomendable que los scripts vayan abajo de la página, por que cuando
 // el navegador carga todo desde arriba y carga primero el html y luego el javascript.
-
-
-
-
