@@ -1,0 +1,27 @@
+html, body {
+    margin: 0px;
+    background-color: #2F4F30;
+    color: #fff;
+} 
+
+.title {
+    text-align: center;
+    background-color: #000;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.card {
+    position: relative;
+    vertical-align: top;
+    display: inline-block;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#playerCards, #botCards {
+    min-height: 240px;
+    max-height: 500px;
+}
